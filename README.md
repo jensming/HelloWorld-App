@@ -1,1 +1,1 @@
-## Hello World! :earth:
+## Hello World! :world:
