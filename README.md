@@ -1,1 +1,1 @@
-## Hello World! :world:
+## Hello World! 🌎
